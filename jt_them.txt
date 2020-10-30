@@ -1,0 +1,1 @@
+jt -t monokai -f roboto -fs 12 -nfs 14 -tfs 14 -ofs 11 -T -N
